@@ -17,3 +17,9 @@
 | **[chap_05](./chap_05)** |  |
 | **[chap_06](./chap_06)** |  |
 | **[chap_07](./chap_07)** |  |
+
+5장 이후에 사용한 일부 데이터셋은 구텐베르크 프로젝트로부터 가져왔습니다.
+목록: 
+
+Moby Dick; Or, The Whale by Herman Melville
+The Adventures of Sherlock Holmes by Arthur Conan Doyle
